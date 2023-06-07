@@ -25,7 +25,9 @@ LLM，即 Large Language Model，大语言模型
 
 - [BELLE](https://github.com/LianjiaTech/BELLE) ![](https://shields.io/github/stars/LianjiaTech/BELLE?style=social) - BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）。基于斯坦福的 Alpaca 完成，但进行了中文优化，并对生成代码进行了一些修改
 
-- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ![](https://shields.io/github/stars/THUDM/ChatGLM-6B?style=social) - by 清华。ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 General Language Model (GLM) 架构，具有 62 亿参数。结合模型量化技术，用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存）。 ChatGLM-6B 使用了和 ChatGPT 相似的技术，针对中文问答和对话进行了优化。
+- [GLM](https://github.com/THUDM/GLM) ![](https://shields.io/github/stars/THUDM/GLM?style=social) - by Knowledge Engineering Group (KEG) & Data Mining at Tsinghua University。
+
+- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ![](https://shields.io/github/stars/THUDM/ChatGLM-6B?style=social) - by Knowledge Engineering Group (KEG) & Data Mining at Tsinghua University。ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 General Language Model (GLM) 架构，具有 62 亿参数。结合模型量化技术，用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存）。 ChatGLM-6B 使用了和 ChatGPT 相似的技术，针对中文问答和对话进行了优化。
 
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm) ![](https://shields.io/github/stars/mlc-ai/mlc-llm?style=social) - 代表了一种新的思路，serverless，允许在手机、电脑等终端上直接运行 LLM
 - [Web LLM](https://github.com/mlc-ai/web-llm) ![](https://shields.io/github/stars/mlc-ai/web-llm?style=social) - *MLC LLM* 的兄弟项目，在浏览器里运行 LLM
