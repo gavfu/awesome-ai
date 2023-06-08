@@ -6,9 +6,9 @@ AI 相关的资料、模型、代码、项目、工具等汇总，尤其是开�
 ## Contents
 
 - [LLM](#llm)
-- [Community](#community)
-- [Platform](#platform)
+- [Community](#communities--organizations)
 - [Applications & Tools](#applications--tools)
+- [Courses](#courses)
 - [Articles](#articles)
 
 ## LLM
@@ -46,14 +46,12 @@ LLM，即 Large Language Model，大语言模型
 
 - [TigerBot](https://github.com/TigerResearch/TigerBot) ![](https://shields.io/github/stars/TigerResearch/TigerBot?style=social) - 新晋国产创业项目，by 虎博网络技术（上海）。TigerBot 是一个多语言多任务的大规模语言模型(LLM)。根据 OpenAI InstructGPT 论文在公开 NLP 数据集上的自动评测，TigerBot-7B 达到 OpenAI 同样大小模型的综合表现的 96%
 
-## Community
+## Communities & Organizations
 
 - [Hugging Face](https://huggingface.co/)
   - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - 开源 LLM 测评排行榜
   - [HuggingChat](https://huggingface.co/chat) ![](https://shields.io/github/stars/huggingface/chat-ui?style=social) - 类似于 ChatGPT 的 AI Chat
   - [Transformers](https://github.com/huggingface/transformers) ![](https://shields.io/github/stars/huggingface/transformers?style=social) - HuggingFace's NLP (Natural Language Processing) library. Transformers is backed by the three most popular deep learning libraries — [Jax](https://jax.readthedocs.io/en/latest/), [PyTorch](https://pytorch.org/) and [TensorFlow](https://www.tensorflow.org/) — with a seamless integration between them.
-
-## Platform
 
 - [LMSYS ORG](https://lmsys.org/) - The Large Model Systems Organization develops large models and systems that are open, accessible, and scalable.
   - [Chatbot Arena](https://lmsys.org/blog/2023-05-03-arena/) - A benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner.
@@ -77,6 +75,13 @@ LLM，即 Large Language Model，大语言模型
 - [ChatBase](https://www.chatbase.co/) - Just upload your documents or add a link to your website and get a ChatGPT-like chatbot for your data. 基于 OpenAI API 构建
 
 - [ChatDoc](https://chatdoc.com/) - ChatDOC is a ChatGPT-based file-reading assistant that can quickly extract, locate, and summarize information from documents.
+
+## Courses
+
+- [Practical Deep Learning](https://course.fast.ai/) - by fast.ai
+- [NLP Course](https://huggingface.co/learn/nlp-course) - by HuggingFace
+
+
 
 ## Articles
 
