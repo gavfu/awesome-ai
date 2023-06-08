@@ -66,6 +66,8 @@ LLM，即 Large Language Model，大语言模型
 
 - [Cursor](https://www.cursor.so) - AI-first code editor powered by OpenAI
 
+- [FastGPT](https://github.com/c121914yu/FastGPT) ![](https://shields.io/github/stars/c121914yu/FastGPT?style=social) - FastGPT 允许你使用自己的 OpenAI API KEY 来快速的调用 OpenAI 接口，目前集成了 Gpt35, Gpt4 和 embedding。 可构建自己的知识库。
+
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ![](https://shields.io/github/stars/Yidadaa/ChatGPT-Next-Web?style=social) - One-Click to deploy well-designed ChatGPT web UI on Vercel
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ![](https://shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social) - An experimental open-source attempt to make GPT-4 fully autonomous.
