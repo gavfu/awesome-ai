@@ -27,7 +27,9 @@ LLM，即 Large Language Model，大语言模型
 
 - [BLOOM](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model
 
-- [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) ![](https://shields.io/github/stars/Duxiaoman-DI/XuanYuan?style=social) - 轩辕是国内首个开源的千亿级中文对话大模型，同时也是首个针对中文金融领域优化的千亿级开源对话大模型。轩辕在BLOOM-176B的基础上针对中文通用领域和金融领域进行了针对性的预训练与微调，它不仅可以应对通用领域的问题，也可以解答与金融相关的各类问题，为用户提供准确、全面的金融信息和建议。
+- [BloomChat](https://github.com/sambanova/bloomchat) ![](https://shields.io/github/stars/sambanova/bloomchat?style=social) - SambaNova 和 Together 推出的开源可商用支持多语言的大语言模型，基于 BLOOM 微调
+
+- [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) ![](https://shields.io/github/stars/Duxiaoman-DI/XuanYuan?style=social) - 轩辕是国内首个开源的千亿级中文对话大模型，同时也是首个针对中文金融领域优化的千亿级开源对话大模型。轩辕在 BLOOM-176B 的基础上针对中文通用领域和金融领域进行了针对性的预训练与微调，它不仅可以应对通用领域的问题，也可以解答与金融相关的各类问题，为用户提供准确、全面的金融信息和建议。
 
 - [GLM](https://github.com/THUDM/GLM) ![](https://shields.io/github/stars/THUDM/GLM?style=social) - by Knowledge Engineering Group (KEG) & Data Mining at Tsinghua University。
 
