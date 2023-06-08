@@ -8,7 +8,7 @@ AI 相关的资料、模型、代码、项目、工具等汇总，尤其是开�
 - [LLM](#llm)
 - [Community](#communities--organizations)
 - [Applications & Tools](#applications--tools)
-- [Courses](#courses)
+- [Courses & Books](#courses--books)
 - [Articles](#articles)
 
 ## LLM
@@ -76,10 +76,11 @@ LLM，即 Large Language Model，大语言模型
 
 - [ChatDoc](https://chatdoc.com/) - ChatDOC is a ChatGPT-based file-reading assistant that can quickly extract, locate, and summarize information from documents.
 
-## Courses
+## Courses & Books
 
-- [Practical Deep Learning](https://course.fast.ai/) - by fast.ai
+- [Practical Deep Learning](https://course.fast.ai/) - on fast.ai, based on book [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD ](https://course.fast.ai/Resources/book.html)
 - [NLP Course](https://huggingface.co/learn/nlp-course) - by HuggingFace
+- [神经网络与深度学习](https://nndl.github.io/nndl-book.pdf) - Neural Network and Deep Learning，邱锡鹏著
 
 
 
